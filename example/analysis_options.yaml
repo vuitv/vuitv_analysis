@@ -1,4 +1,4 @@
-include: package:vuitv_analysis/vuitv_analysis.yaml
+include: package:vuitv_analysis/analysis_options.yaml
 
 linter:
   rules:
