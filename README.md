@@ -25,7 +25,7 @@ include: package:vuitv_analysis/analysis_options.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:vuitv_analysis/analysis_options.3.7.1.yaml
+include: package:vuitv_analysis/analysis_options.3.8.0.yaml
 ```
 
 ## Suppressing Lints
@@ -75,6 +75,6 @@ To indicate your project is using `vuitv_analysis` →
 [![style: vuitv analysis](https://img.shields.io/badge/style-vuitv_analysis-B22C89.svg)](https://pub.dev/packages/vuitv_analysis)
 ```
 
-[flutter_badge]: https://img.shields.io/badge/pub-v3.7.1-blue
+[flutter_badge]: https://img.shields.io/badge/pub-v3.8.0-blue
 [badge]: https://img.shields.io/badge/style-vuitv_analysis-B22C89.svg
 [badge_link]: https://pub.dev/packages/vuitv_analysis

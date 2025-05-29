@@ -3,7 +3,7 @@ description: A project create by VuiTv for analysis options and lints.
 homepage: https://github.com/vuitv/vuitv_analysis
 repository: https://github.com/vuitv/vuitv_analysis
 topics: [lints, analyzer, analysis]
-version: 3.7.1
+version: 3.8.0
 
 environment:
-  sdk: ^3.7.0
+  sdk: ^3.8.0
